@@ -9,6 +9,14 @@
   ![image](https://github.com/user-attachments/assets/3c67f159-db98-4936-92bb-a41a36f7ae04)
 
 
+  To dump the firmware in this mode:
+
+  1. Install stm32CubeProgrammer from here: https://www.st.com/en/development-tools/stm32cubeprog.html
+  2.
+  ![image](https://github.com/user-attachments/assets/3ecdd8a9-6c15-4415-9bd3-9a8992fba7bd)
+
+
+
 - Bootloader Mode:
   
   Only on the PS model, if you hold down the green and red freets while turning on the guitar it will how up as an xbox 360 controller. this is also called bootloader mode though im not sure why....

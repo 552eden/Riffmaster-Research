@@ -1,10 +1,11 @@
 # Riffmaster-Research
-This repo will document my PS5 PDP Riffmaster adventure
+This repo will document my PDP Riffmaster adventure
 
 - [SWD Documentation](SWD.md)
 - [Alternate Modes](Alternate_Modes.md)
 - [Dongle](Dongle.md)
 - [Pinouts](Pinouts.md)
+- [Board Images](Board-Images.md)
 
 
 # Strings from flash dump:

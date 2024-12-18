@@ -23,8 +23,6 @@
 
   On a real xbox 360 it will work as a gamepad but not as a guitar sadly. needs more research if we can set the value to a guitar.
 
-  In this mode the chip boots from address: 0x1ff00000 instead of the normal 0x08000000
-
   more specifically it will show up with these classnames
 
    ```
@@ -32,5 +30,7 @@
    - Windows.Xbox.Input.NavigationController
     Source: https://github.com/TheNathannator/RB4InstrumentMapper/issues/32#issuecomment-2287285707
   ```
+
+   The Xbox also has a bootloader mode but it does NOT identify as an xbox 360 controller. Needs more research to find out if that mode can be enabled in software
   
  

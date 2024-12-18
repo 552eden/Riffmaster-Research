@@ -1,6 +1,7 @@
 # Riffmaster-Research
 This repo will document my PDP Riffmaster adventure
 
+- [CFW](CFW.md)
 - [SWD Documentation](SWD.md)
 - [Alternate Modes](Alternate_Modes.md)
 - [Dongle](Dongle.md)

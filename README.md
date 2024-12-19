@@ -1,7 +1,7 @@
 # Riffmaster-Research
 This repo will document my PDP Riffmaster adventure
 
-- [CFW](CFW.md)
+- [CFW (Xbox 360 Compatibility) ](CFW.md)
 - [SWD Documentation](SWD.md)
 - [Alternate Modes](Alternate_Modes.md)
 - [Dongle](Dongle.md)

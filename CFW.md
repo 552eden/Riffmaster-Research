@@ -14,7 +14,7 @@ Search for hex ``` 10 21 10 01 01 ```. there will be 4 or 5 hits. you are lookin
 
 ![image](https://github.com/user-attachments/assets/aa87c76c-c3d8-4e12-ac0f-d3d082eda530)
 
-On both addresses change ```10 21 10 01 01``` to ```10 21 10 01 07```.
+On both addresses change ```10 21 10 01 01``` to ```10 21 10 01 06```.
 
 Then your riffmaster will report as Guitar instead of Gamepad. To use it on a real Xbox 360 you need to either be on dev nand or have usbdescpatch patch selected on jrunner or use [usbdescpatch](https://github.com/InvoxiPlayGames/UsbdSecPatch) on dashlaunch.
 

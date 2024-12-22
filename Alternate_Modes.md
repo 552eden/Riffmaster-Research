@@ -21,7 +21,7 @@
   
   Only on the PS model, if you hold down the green and red freets while turning on the guitar it will how up as an xbox 360 controller. this is also called bootloader mode though im not sure why....
 
-  On a real xbox 360 it will work as a gamepad but not as a guitar sadly. needs more research if we can set the value to a guitar.
+  On a real xbox 360 it will work as a gamepad but not as a guitar sadly. ~~needs more research if we can set the value to a guitar.~~. see [CFW](CFW.md) for more info on Xbox 360 guitar mode.
 
   more specifically it will show up with these classnames
 

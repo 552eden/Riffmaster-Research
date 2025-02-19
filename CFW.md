@@ -16,6 +16,9 @@ Search for hex ``` 10 21 10 01 01 ```. there will be 4 or 5 hits. you are lookin
 
 On both addresses change ```10 21 10 01 01``` to ```10 21 10 01 06```.
 
+Flash the image back to the guitar and youre done!
+
 Then your riffmaster will report as Guitar instead of Gamepad. To use it on a real Xbox 360 you need to either be on dev nand or have usbdescpatch patch selected on jrunner or use [usbdescpatch](https://github.com/InvoxiPlayGames/UsbdSecPatch) on dashlaunch.
+(And of course connect the guitar wired while holding Red an Green)
 
 
